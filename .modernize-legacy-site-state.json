@@ -1,0 +1,11 @@
+{
+  "sourceOpeningClassification": "profile site",
+  "sourceWebsite": "https://uljana-ulitsa-sojfera.clients.site/",
+  "supportingMapsCard": "https://yandex.ru/maps/org/ulyana/1112955205/",
+  "stage": 1,
+  "project": "ulyana-modern",
+  "mobileSourceStatus": "limited",
+  "implementedRoutes": ["/"],
+  "deferredRoutes": ["/prices/", "/gallery/", "/reviews/"],
+  "lastVerified": "2026-09-18"
+}
